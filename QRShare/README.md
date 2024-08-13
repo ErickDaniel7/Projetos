@@ -41,17 +41,17 @@ Em resumo, o código HTML, CSS e JavaScript fornecidos criam uma aplicação que
 
 <br>
 
-![InterfaceCompleta](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/InterfaceCompleta.png)
+![InterfaceCompleta](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/InterfaceCompleta.png)
 
-![QRShare](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/QRShare.png)
+![QRShare](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/QRShare.png)
 
-![EscolherArquivo](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/EscolherArquivo.png)
+![EscolherArquivo](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/EscolherArquivo.png)
 
-![InformaçõesArquivo](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/InformaçõesArquivo.png)
+![InformaçõesArquivo](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/InformaçõesArquivo.png)
 
-![Qrcode&Download](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/Qrcode.png)
+![Qrcode&Download](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/Qrcode.png)
 
-![Qrcode&Download](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/BoxLink.png)
+![Qrcode&Download](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/BoxLink.png)
 
-![InformaçõesArquivoDownload](https://github.com/ErickDaniel7/QRShare/blob/main/Imagens/InformaçõesArquivoDownload.png)
+![InformaçõesArquivoDownload](https://github.com/ErickDaniel7/Projetos/blob/main/QRShare/Imagens/InformaçõesArquivoDownload.png)
 
